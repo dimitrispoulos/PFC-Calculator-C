@@ -18,4 +18,5 @@ A C program that calculates the required capacitor's reactive power and capacita
 7. Get the result!
 
 ## Author
-Dimitrios Poulos
+**Dimitrios Poulos**
+* Electrical & Computer Engineering Student
