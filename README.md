@@ -17,6 +17,11 @@ A C program that calculates the required capacitor's reactive power and capacita
 6. Enter grid details (**Voltage**, **Frequency**).
 7. Get the result!
 
+## Example Output
+Running the program for an industrial load of **100 kW**. The example demonstrates the calculation required to correct the **Power Factor from 0.75 to 0.95** on a 400V/50Hz grid.
+The corrections of errors are also shown.
+<img width="1151" height="1069" alt="image" src="https://github.com/user-attachments/assets/9a8535c4-eebc-4fe8-897d-667be6fd6292" />
+
 ## Author
 **Dimitrios Poulos**
 * Electrical & Computer Engineering Student
